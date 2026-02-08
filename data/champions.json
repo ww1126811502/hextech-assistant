@@ -1,0 +1,66 @@
+{
+  "version": "16.3",
+  "updatedAt": "2026-02-08T06:00:00Z",
+  "champions": [
+    {
+      "id": 887,
+      "name": "格温",
+      "title": "灵罗娃娃",
+      "key": "Gwen",
+      "tier": "T1",
+      "winRate": 58.89,
+      "pickRate": 0.34,
+      "games": 38419,
+      "roles": ["AP", "Bruiser", "On-Hit"],
+      "icon": "/images/champions/887.png"
+    },
+    {
+      "id": 876,
+      "name": "莉莉娅",
+      "title": "含羞蓓蕾",
+      "key": "Lillia",
+      "tier": "T1",
+      "winRate": 58.02,
+      "pickRate": 0.67,
+      "games": 75783,
+      "roles": ["AP", "Bruiser"],
+      "icon": "/images/champions/876.png"
+    },
+    {
+      "id": 904,
+      "name": "亚恒",
+      "title": "不落魔锋",
+      "key": "Naafiri",
+      "tier": "T1",
+      "winRate": 56.20,
+      "pickRate": 0.64,
+      "games": 72333,
+      "roles": ["AD", "Assassin"],
+      "icon": "/images/champions/904.png"
+    },
+    {
+      "id": 10,
+      "name": "凯尔",
+      "title": "正义天使",
+      "key": "Kayle",
+      "tier": "T1",
+      "winRate": 55.60,
+      "pickRate": 0.83,
+      "games": 93312,
+      "roles": ["AP", "Marksman"],
+      "icon": "/images/champions/10.png"
+    },
+    {
+      "id": 63,
+      "name": "布兰德",
+      "title": "复仇焰魂",
+      "key": "Brand",
+      "tier": "T1",
+      "winRate": 54.89,
+      "pickRate": 1.18,
+      "games": 132926,
+      "roles": ["AP", "Mage"],
+      "icon": "/images/champions/63.png"
+    }
+  ]
+}

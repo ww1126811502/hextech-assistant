@@ -1,0 +1,89 @@
+{
+  "championId": 887,
+  "championName": "格温",
+  "version": "16.3",
+  "updatedAt": "2026-02-08T06:00:00Z",
+  "byTier": {
+    "prismatic": {
+      "total": 46,
+      "medianWinRate": 58.0,
+      "augments": [
+        {
+          "id": "red_packet",
+          "name": "红包",
+          "winRate": 68.24,
+          "pickRate": 5.54,
+          "games": 2856,
+          "rank": 1,
+          "score": "S"
+        },
+        {
+          "id": "stat_stacking",
+          "name": "属性叠属性！",
+          "winRate": 67.81,
+          "pickRate": 5.24,
+          "games": 2703,
+          "rank": 2,
+          "score": "S"
+        },
+        {
+          "id": "giant_slayer",
+          "name": "巨人杀手",
+          "winRate": 62.86,
+          "pickRate": 4.69,
+          "games": 2418,
+          "rank": 3,
+          "score": "A"
+        },
+        {
+          "id": "war_symphony",
+          "name": "战争交响乐",
+          "winRate": 60.12,
+          "pickRate": 4.73,
+          "games": 2440,
+          "rank": 12,
+          "score": "B"
+        },
+        {
+          "id": "slow_cook",
+          "name": "慢炖",
+          "winRate": 52.10,
+          "pickRate": 3.21,
+          "games": 1234,
+          "rank": 45,
+          "score": "D"
+        }
+      ]
+    },
+    "gold": {
+      "total": 56,
+      "medianWinRate": 55.5,
+      "augments": [
+        {
+          "id": "sorcerers_focus",
+          "name": "神射法师",
+          "winRate": 62.68,
+          "pickRate": 16.84,
+          "games": 8679,
+          "rank": 2,
+          "score": "S"
+        }
+      ]
+    },
+    "silver": {
+      "total": 47,
+      "medianWinRate": 54.0,
+      "augments": [
+        {
+          "id": "super_slayer",
+          "name": "超凡邪恶",
+          "winRate": 58.76,
+          "pickRate": 16.46,
+          "games": 8483,
+          "rank": 16,
+          "score": "A"
+        }
+      ]
+    }
+  }
+}

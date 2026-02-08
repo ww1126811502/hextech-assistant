@@ -1,0 +1,60 @@
+{
+  "augments": [
+    {
+      "id": "red_packet",
+      "name": "红包",
+      "nameEn": "Red Packet",
+      "tier": "prismatic",
+      "description": "每回合开始时获得15金币",
+      "icon": "/images/augments/red_packet.png"
+    },
+    {
+      "id": "stat_stacking",
+      "name": "属性叠属性！",
+      "nameEn": "Stat Stacking",
+      "tier": "prismatic",
+      "description": "每回合获得随机属性加成",
+      "icon": "/images/augments/stat_stacking.png"
+    },
+    {
+      "id": "giant_slayer",
+      "name": "巨人杀手",
+      "nameEn": "Giant Slayer",
+      "tier": "prismatic",
+      "description": "对高生命值敌人造成额外伤害",
+      "icon": "/images/augments/giant_slayer.png"
+    },
+    {
+      "id": "slow_cook",
+      "name": "慢炖",
+      "nameEn": "Slow Cook",
+      "tier": "prismatic",
+      "description": "技能持续造成伤害",
+      "icon": "/images/augments/slow_cook.png"
+    },
+    {
+      "id": "war_symphony",
+      "name": "战争交响乐",
+      "nameEn": "War Symphony",
+      "tier": "prismatic",
+      "description": "攻击时附加音波伤害",
+      "icon": "/images/augments/war_symphony.png"
+    },
+    {
+      "id": "sorcerers_focus",
+      "name": "神射法师",
+      "nameEn": "Sorcerer's Focus",
+      "tier": "gold",
+      "description": "增加技能射程和伤害",
+      "icon": "/images/augments/sorcerers_focus.png"
+    },
+    {
+      "id": "super_slayer",
+      "name": "超凡邪恶",
+      "nameEn": "Super Slayer",
+      "tier": "silver",
+      "description": "随时间增加法术强度",
+      "icon": "/images/augments/super_slayer.png"
+    }
+  ]
+}
